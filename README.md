@@ -1,0 +1,2 @@
+# .github
+iGamio Github Config
